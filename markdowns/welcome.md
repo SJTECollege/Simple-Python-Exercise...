@@ -4,7 +4,7 @@ Simple Python exercise...
 
 # Coding exercise
 
-@[Print exercise?]({"stubs": ["universe.py"], "command": "python3 test_universe.py"})
+@[Print exercise]({"stubs": ["universe.py"], "command": "python3 test_universe.py"})
 
 Check out the markdown file [`welcome.md`](https://github.com/TechDotIO/python-template/blob/master/markdowns/welcome.md) to see how this exercise is injected into the template.
 
