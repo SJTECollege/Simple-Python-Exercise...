@@ -1,2 +1,3 @@
-Print(Hello World') # fix me!
+def hello():
+    return 'Hello, World! # fix me!
 
