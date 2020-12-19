@@ -1,6 +1,6 @@
-title: Python Project
+title: Simple Python Exercise
 plan:
-- title: Welcome
+- title: Hello!
   statement: markdowns/welcome.md
 projects:
   python:
